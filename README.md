@@ -1,59 +1,45 @@
-# Proyecto base para el módulo Entornos de Desarrollo 2021/22
+# *PROGRAMACIÓN*
+![image](https://www.enter.co/wp-content/uploads/2020/12/Programacion-codigo-768x432.jpg)
 
-## 1. ¿Para qué es este proyecto?
-> En este documento describimos las principales características que podemos incluir en un fichero **README.md**, junto a las etiquetas utilizadas para estructurar su contenido.
+   Tomado de [**ENTER.CO**](https://www.enter.co/empresas/negocios/quiere-saber-si-la-programacion-podria-ser-su-camino-profesional/)
+## 1.LENGUAJES
+En este repositorio se adjuntan ejercicios realizados en clase, usando los siguientes lenguajes.
+> * **JAVA**
+> * **PYTHON**
+> 
 
-> Los archivos de documentación de proyectos suelen incluir:
+## INCLUYE LOS SIGUIENTES BOLETINES:
 
-* Nombre del proyecto
-* Objetivo
-* Requisitos de instalación: 
-  	* librerías utilizadas
-  	* software soportado
-  	* sistemas de virtualización
-* Guía paso a paso para la instalación
-* Resolución de problemas habituales
-* Referencias/Enlaces de interés
-* Copyright
-
-
-
-## 2.  Requisitos de instalación
-
-> La ejecución de este proyecto requiere utilizar un JDK 9 o superior.
-
-![image](https://user-images.githubusercontent.com/73032467/156217644-f0b89096-9739-466d-8a84-0f063ab9d5e8.png)
-
-   Tomado de [**_Lenguajes de programación más comunes_**](https://www.tiobe.com/tiobe-index/)
-   
+* Apuntes  
+* Boletin1Java (Boletin Iniciación en Java)
+* Boletin_Ingles (Boletin de Pyhton con Ejercicios en Inglés)
+* Boletin_bucles (Ejercicios basados en bucles) 
+* Boletin_listas (Ejercicios basados en listas)
+* Ejercicio_lista (Ejercicios basados en listas)
+* Ejercicios_listas (Ejercicios basados en listas)
+* Examenpython1 (Primer examen realizado en Pyhton)
+* Cafe (Ejericicio muy completo de Java)
+* Línea (Ejercicio de Java)
+* Matriz (Primera matriz en Java)
 
 
-## 3. Instalación
+## Apuntes:
+Contiene los siguientes contenidos en él:
+1. Información sobre bucles en Java
+2. Información acerca de los condicionales
+3. Información acerca de herramientas y funciones de Java
+4. Reglas a seguir de Java
 
-### 3.1. Step 1
+### Acerca de mí :
+```
+- Soy un programador junior el cual está en formación para el desarrollo web
+- Horas de Programación: 200 horas
+- Programas realizados en: Java y Python
 
-Descripción del paso 1 de la instalación
-
-### 3.2. Step 2 
-
-Descripción del paso 2 de la instalación
-
-
-### 3.3. Step 3
-
-Descripción del paso 3 de la instalación
-
-
-### 3.n. Step ...n
-
-
-## 4. Resolución de problemas
-
-
+```
 
 ## 5. Enlaces de interés
 
-* [Control de Versiones](https://en.wikipedia.org/wiki/Version_control)
-* [Pro Git](https://git-scm.com/book/en/v2)
-* [Tutorial de Markdown](https://www.markdowntutorial.com/)
+* [Teoría acerca de Java](http://puntocomnoesunlenguaje.blogspot.com/p/teoria_7.html)
+
 
